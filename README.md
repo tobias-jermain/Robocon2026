@@ -6,3 +6,8 @@ The public and final code used for our winning robot at Robocon 2026 for GCSE st
 Written by Tobias & Dylan
 
 ## The library used is a custom one developed by Hills Road for their 'Robocon.uk' competition for GCSE students. It is imported with 'import robot' and only works on their brainboxes
+
+
+This contains the code that does NOT use our position finding or triangulation but rather the more simple method of 'point and shoot' where a marker is seen and driven to.
+
+Hope this helps 
